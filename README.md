@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ángel Morejón
 
-<!--
-**Lottos02/Lottos02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Linux SysAdmin focused on Ubuntu Server and Docker environments.
 
-Here are some ideas to get you started:
+## About me
+I work with Linux servers using practical, reproducible setups.
+My focus is on:
+- Ubuntu Server administration
+- Docker and Docker Compose
+- Clear documentation and realistic workflows
+- Learning through hands-on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main repository
+- linux-sysadmin-lab (coming soon)
+
+## Location
+Andalusia, Spain
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/angelmorejon
